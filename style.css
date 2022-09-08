@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.corpo{
+   
+    color: aliceblue;
+    background:linear-gradient(#3c3c3c,#000)
+    
+}
+.titulo1{
+    text-align: center;
+
+}
+.fundodescricao{
+    background-color: #000000;
+    height: 15vh;
+}
+.subtitulo{ 
+   
+    margin-top: 7%;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+.formulario1{
+    text-align: center;
+    position: relative;
+    top:50%;
+    width:min-content;
+    margin-left: 425px;
+    
+}
+.formulario01{
+    border-radius: 0%;
+
+    
+
+}
+
+.formulario2{
+    text-align: center;
+    width: min-content;
+    border-radius: 10px;
+    margin-left: 425px;
+    
+    
+   
+}
+
+.logo{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .navegation ol{
+    list-style-type: none;
+    display: flex;
+    }
+    
+    
+    .navegation{
+    background-color: #524e4e;
+    height: 15vh;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    
+    .navegation ol li{
+    padding-right: 120px;
+    margin-left: 50px;
+    }
+    
+    .navegation .lista{
+    margin-top: 8px;
+    }
+    
+    .navegation ol li:hover{
+    color: darkorange;
+    cursor: pointer;
+    }
+    .login{
+        background-color: rgb(235, 130, 2);
+        padding: 8px;
+        height: 50px;
+        width: 100px;
+        cursor: pointer;
+    }
+
+    .rodape{
+        font-family: fantasy;
+        margin-left: 200px;
+        margin-top: 100px;
+        
+    }
+
+    
